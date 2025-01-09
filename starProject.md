@@ -1,3 +1,12 @@
+### [xiaoxiunique/ustars](https://github.com/xiaoxiunique/ustars)
+- **Description:** 定时抓取 Stars 项目，快速访问并检索项目
+
+### [yenche123/liubai](https://github.com/yenche123/liubai)
+- **Description:** Supercharge yourself!
+
+### [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)
+- **Description:** auto sign cursor
+
 ### [KreitinnSoftware/MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application)
 - **Description:** MiceWine is a project that aims to run Windows applications and games on Android smartphones.
 
@@ -14,6 +23,7 @@
 - **Description:** 收集你的零零散散，全新的聚合思路。自托管的网站汇总平台，内嵌页面无需跳转，很适合作为团队内部工具平台。
 
 ### [bestruirui/mihomo-check](https://github.com/bestruirui/mihomo-check)
+- **Description:** 节点可用性检测
 
 ### [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
 - **Description:** SOTA Open Source TTS
@@ -984,7 +994,7 @@
 - **Description:** 这是一个基于 Vue2 + ZLMediaKit 流媒体服务实现的零成本流媒体 WEB 管理项目
 
 ### [tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi)
-- **Description:** A simple third-party Emby client
+- **Description:** A simple third-party Emby client for Linux
 
 ### [read-cat/read-cat](https://github.com/read-cat/read-cat)
 - **Description:** 一款免费、开源、简洁、纯净、无广告的小说阅读器
@@ -3921,6 +3931,7 @@
 - **Description:** 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.
 
 ### [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine)
+- **Description:** AI Video Search Engine (RAG)
 
 ### [cheungchazz/cow_plugin_kimichat](https://github.com/cheungchazz/cow_plugin_kimichat)
 - **Description:** chatgpt-on-wechat/AIChatbot-Winonly插件，国产kimi模型，可以处理最多20万字的输入和输出。无论是单个文件还是多个文件，只要它们的总字数不超过20万字。
@@ -4042,7 +4053,7 @@
 - **Description:** Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
 ### [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
-- **Description:** Instant voice cloning by MIT and MyShell.
+- **Description:** Instant voice cloning by MIT and MyShell. Audio foundation model.
 
 ### [xitanggg/open-resume](https://github.com/xitanggg/open-resume)
 - **Description:** OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
@@ -4217,7 +4228,7 @@
 - **Description:** 逆他妈的QQNT Patch文件检测
 
 ### [ollama/ollama](https://github.com/ollama/ollama)
-- **Description:** Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- **Description:** Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ### [FeatherCMS/feather](https://github.com/FeatherCMS/feather)
 - **Description:** Feather is a modern Swift-based content management system powered by Vapor 4. 
@@ -5479,7 +5490,7 @@
 - **Description:** Penpot: The open-source design tool for design and code collaboration
 
 ### [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-- **Description:** Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- **Description:** Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ### [iglance/iGlance](https://github.com/iglance/iGlance)
 - **Description:** Free system monitor for OSX and macOS. See all system information at a glance in the menu bar. 
